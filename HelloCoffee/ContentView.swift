@@ -20,8 +20,12 @@ struct ContentView: View {
 
     var body: some View {
         VStack {
-            List(model.orders) { order in
-                OrderCellView(order: order)
+            if model.orders.isEmpty {
+                Text("No orders available!").accessibilityIdentifier("noOrdersText")
+            } else {
+                List(model.orders) { order in
+                    OrderCellView(order: order)
+                }
             }
         }.task {
             await populateOrders()
