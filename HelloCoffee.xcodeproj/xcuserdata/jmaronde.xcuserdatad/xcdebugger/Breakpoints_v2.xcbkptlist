@@ -88,10 +88,40 @@
             filePath = "HelloCoffee/services/Webservice.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
             landmarkName = "getOrders()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB1DE0E7-A4BA-4C3C-90ED-312806DD6613 - b4cdbecb39ecbb2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for HelloCoffee.Webservice.getOrders() async throws -&gt; Swift.Array&lt;HelloCoffee.Order&gt;"
+                  moduleName = "HelloCoffee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/iOSDEVBootCamp/HelloCoffee/HelloCoffee/services/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29">
+               </Location>
+               <Location
+                  uuid = "EB1DE0E7-A4BA-4C3C-90ED-312806DD6613 - b4cdbecb39ecbb87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for HelloCoffee.Webservice.getOrders() async throws -&gt; Swift.Array&lt;HelloCoffee.Order&gt;"
+                  moduleName = "HelloCoffee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/iOSDEVBootCamp/HelloCoffee/HelloCoffee/services/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -104,10 +134,40 @@
             filePath = "HelloCoffee/services/Webservice.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "33"
-            endingLineNumber = "33"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
             landmarkName = "getOrders()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7C1C129E-418F-415C-97DB-D605660D9475 - b4cdbecb39ecbba8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for HelloCoffee.Webservice.getOrders() async throws -&gt; Swift.Array&lt;HelloCoffee.Order&gt;"
+                  moduleName = "HelloCoffee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/iOSDEVBootCamp/HelloCoffee/HelloCoffee/services/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "7C1C129E-418F-415C-97DB-D605660D9475 - b4cdbecb39ecba03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for HelloCoffee.Webservice.getOrders() async throws -&gt; Swift.Array&lt;HelloCoffee.Order&gt;"
+                  moduleName = "HelloCoffee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/iOSDEVBootCamp/HelloCoffee/HelloCoffee/services/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -136,10 +196,40 @@
             filePath = "HelloCoffee/services/Webservice.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
             landmarkName = "getOrders()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC3BD49D-A4FA-44A0-ACB7-899E7985B061 - b4cdbecb39ecbb0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for HelloCoffee.Webservice.getOrders() async throws -&gt; Swift.Array&lt;HelloCoffee.Order&gt;"
+                  moduleName = "HelloCoffee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/iOSDEVBootCamp/HelloCoffee/HelloCoffee/services/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30">
+               </Location>
+               <Location
+                  uuid = "FC3BD49D-A4FA-44A0-ACB7-899E7985B061 - b4cdbecb39ecba66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for HelloCoffee.Webservice.getOrders() async throws -&gt; Swift.Array&lt;HelloCoffee.Order&gt;"
+                  moduleName = "HelloCoffee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/iOSDEVBootCamp/HelloCoffee/HelloCoffee/services/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

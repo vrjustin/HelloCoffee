@@ -16,6 +16,7 @@
 		1A6D99752C873F6500562D09 /* CoffeeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A6D99742C873F6500562D09 /* CoffeeModel.swift */; };
 		1A6D99782C874A7700562D09 /* NumberFormatter+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A6D99772C874A7700562D09 /* NumberFormatter+Extensions.swift */; };
 		1A6D997B2C874AEE00562D09 /* OrderCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A6D997A2C874AEE00562D09 /* OrderCellView.swift */; };
+		1A6D997E2C874C3800562D09 /* AppEnvironment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A6D997D2C874C3800562D09 /* AppEnvironment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		1A6D99742C873F6500562D09 /* CoffeeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeModel.swift; sourceTree = "<group>"; };
 		1A6D99772C874A7700562D09 /* NumberFormatter+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NumberFormatter+Extensions.swift"; sourceTree = "<group>"; };
 		1A6D997A2C874AEE00562D09 /* OrderCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderCellView.swift; sourceTree = "<group>"; };
+		1A6D997D2C874C3800562D09 /* AppEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppEnvironment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		1A6D995F2C87377400562D09 /* HelloCoffee */ = {
 			isa = PBXGroup;
 			children = (
+				1A6D997C2C874C2200562D09 /* Utils */,
 				1A6D99792C874AD300562D09 /* Views */,
 				1A6D99762C874A4E00562D09 /* extensions */,
 				1A6D99712C87387F00562D09 /* models */,
@@ -112,6 +115,14 @@
 				1A6D997A2C874AEE00562D09 /* OrderCellView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		1A6D997C2C874C2200562D09 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				1A6D997D2C874C3800562D09 /* AppEnvironment.swift */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -189,6 +200,7 @@
 				1A6D99752C873F6500562D09 /* CoffeeModel.swift in Sources */,
 				1A6D99782C874A7700562D09 /* NumberFormatter+Extensions.swift in Sources */,
 				1A6D99612C87377400562D09 /* HelloCoffeeApp.swift in Sources */,
+				1A6D997E2C874C3800562D09 /* AppEnvironment.swift in Sources */,
 				1A6D99732C87388F00562D09 /* Order.swift in Sources */,
 				1A6D99702C87384A00562D09 /* Webservice.swift in Sources */,
 			);
@@ -332,6 +344,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -361,6 +374,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
